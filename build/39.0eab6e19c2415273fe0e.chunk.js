@@ -1,0 +1,1 @@
+webpackJsonp([39],{"./app/containers/StatisticsByCountry/sagas.js":function(t,e,r){"use strict";function a(){return regeneratorRuntime.wrap(function(t){for(;;)switch(t.prev=t.next){case 0:return t.abrupt("return");case 1:case"end":return t.stop()}},n[0],this)}e.defaultSaga=a;var n=[a].map(regeneratorRuntime.mark);e.default=[a]}});
